@@ -1,0 +1,2 @@
+# learningJS
+First JS Codes
